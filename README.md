@@ -189,9 +189,15 @@ model_id = "mistralai/Mistral-7B-v0.1"   # better quality but needs more VRAM
 ```
 
 Any instruction-tuned causal LM from HuggingFace should work as a drop-in replacement.
+---
+Demo Video 
+
+
+https://github.com/user-attachments/assets/a36d0a80-794f-4474-b110-19b4b1e233e1
 
 ---
 
 ## License
 
 MIT. Use it, modify it, build on it.
+
