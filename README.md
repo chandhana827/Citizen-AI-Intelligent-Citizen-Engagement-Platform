@@ -1,5 +1,5 @@
 ---
-title: Citizen AI – Intelligent Citizen Engagement 
+title: Citizen AI – Intelligent Citizen Engagement platform
 emoji: 🧠
 colorFrom: blue
 colorTo: teal
