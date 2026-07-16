@@ -14,7 +14,7 @@ license: mit
 
 I built this to explore what AI-assisted civic engagement could look like — a single interface where citizens can ask questions, report issues, analyze sentiment, and get responses tailored to where they live and what they care about.
 
-It runs on IBM's Granite 3B model and is built entirely with Gradio. You can run it on Google Colab for free whenever you need it, or deploy it permanently on Hugging Face Spaces if you want it always 
+It runs on IBM's Granite 3B model and is built entirely with Gradio. You can run it on Google Colab for free whenever you need it, or deploy it permanently on Hugging Face Spaces if you want it always online.
 
 ---
 
